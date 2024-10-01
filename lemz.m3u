@@ -17,6 +17,9 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223524
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Vwz1vHr.jpg" group-title="PH local channel", AXN No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223525
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG3ISwpLTRCOZ2kFy0kPJIruhDAf9Y4JSwrs_RErTHyA7U47wyONWhB7oCw&s" group-title="PH local channel", Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tdtsLeU.jpg" group-title="PH local channel", BBC Earth No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223527
 
