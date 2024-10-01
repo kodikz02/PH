@@ -23,17 +23,17 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223527
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7VHXQj8.jpg" group-title="PH local channel", BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/hsB4bLf.jpg" group-title="PH local channel", BuKo Channel
+#EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/hsB4bLf.jpg" group-title="PH local channel", BuKo Channel No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463620&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kP5pWOM.jpg" group-title="PH local channel", Cartoon Network
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223532
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7IuS1qT.jpg" group-title="PH local channel", Cartoonito
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223530
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1nykesS.jpg" group-title="PH local channel", CCTN 47
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223533
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FTmSeat.jpg" group-title="PH local channel", Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
