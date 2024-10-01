@@ -3,7 +3,7 @@
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=926206&extension=ts&play_token=Xfy6rvXKB2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7SiVYcs.jpg" group-title="PH local channel", ANC
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223520
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uADhFpj.jpg" group-title="PH local channel", Animal Planet
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223521
