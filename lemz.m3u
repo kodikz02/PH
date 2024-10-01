@@ -5,23 +5,23 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=926206&extensi
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7SiVYcs.jpg" group-title="PH local channel", ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uADhFpj.jpg" group-title="PH local channel", Animal Planet
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uADhFpj.jpg" group-title="PH local channel", Animal Planet No
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Mw0YOcq.jpg" group-title="PH local channel", Animax
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Mw0YOcq.jpg" group-title="PH local channel", Animax No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223522
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/axWEqVM.jpg" group-title="PH local channel", Asian Food Network
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/axWEqVM.jpg" group-title="PH local channel", Asian Food Network No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223524
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Vwz1vHr.jpg" group-title="PH local channel", AXN
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Vwz1vHr.jpg" group-title="PH local channel", AXN No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223525
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tdtsLeU.jpg" group-title="PH local channel", BBC Earth
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tdtsLeU.jpg" group-title="PH local channel", BBC Earth No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223527
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7VHXQj8.jpg" group-title="PH local channel", BBC World News
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223528
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/hsB4bLf.jpg" group-title="PH local channel", BuKo Channel
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463620&extension=m3u8
