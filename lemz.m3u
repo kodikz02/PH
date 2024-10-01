@@ -98,32 +98,32 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223555
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xOwX15E.jpg" group-title="PH local channel", INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ykhT4Ak.jpg" group-title="PH local channel", Jeepney TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ykhT4Ak.jpg" group-title="PH local channel", Jeepney TV No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223557
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y9PiFC1.jpg" group-title="PH local channel", Kapamilya Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y9PiFC1.jpg" group-title="PH local channel", Kapamilya Channel No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223559
 
-#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/Dm2ZlLa.jpg" group-title="PH local channel", Kapamilya Channel HD
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/Dm2ZlLa.jpg" group-title="PH local channel", Kapamilya Channel HD No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=31053&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cXAGC62.jpg" group-title="PH local channel", KBS World
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223562
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/ovkKbQC.jpg" group-title="PH local channel", KIX
+#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/ovkKbQC.jpg" group-title="PH local channel", KIX No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704633&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DLznXU6.jpg" group-title="PH local channel", Lifetime
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DLznXU6.jpg" group-title="PH local channel", Lifetime No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223565
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VI7la1o.jpg" group-title="PH local channel", Metro Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VI7la1o.jpg" group-title="PH local channel", Metro Channel No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223568
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/mtv.png" group-title="PH local channel", MTV Live
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/mtv.png" group-title="PH local channel", MTV Live No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223570
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VxA9c1w.jpg" group-title="PH local channel", MYX
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223571
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/nationalgeo.png" group-title="PH local channel", National Geographic
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223573
