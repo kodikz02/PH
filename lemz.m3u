@@ -155,7 +155,7 @@ http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463644
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/KziILdU.jpg" group-title="PH local channel", PBA Rush
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=914598&extension=ts&play_token=w2Z0ECv0nh
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oLBKueP.jpg" group-title="PH local channel", PBO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oLBKueP.jpg" group-title="PH local channel", PBO No
 https://bit.ly/44LFPvQ
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IINcA6R.jpg" group-title="PH local channel", Pinoy Xtreme No
@@ -167,35 +167,35 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223585
 #EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/lklTuGG.jpg" group-title="PH local channel", Sari-Sari
 https://tinyurl.com/5bcc4nrw
 
-#EXTINF:-1 tvg-id="SPOTV.sg" tvg-logo="https://i.imgur.com/Ru8HuYA.jpg" group-title="PH local channel", SPOTV
+#EXTINF:-1 tvg-id="SPOTV.sg" tvg-logo="https://i.imgur.com/Ru8HuYA.jpg" group-title="PH local channel", SPOTV No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704583&extension=m3u8
 
-#EXTINF:-1 tvg-id="SPOTV.2.HD.ph" tvg-logo="https://i.imgur.com/A4EZ7om.jpg" group-title="PH local channel", SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV.2.HD.ph" tvg-logo="https://i.imgur.com/A4EZ7om.jpg" group-title="PH local channel", SPOTV 2 No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=115305&extension=m3u8
 
-#EXTINF:-1 tvg-id="TAP.EDGE.ph" tvg-logo="https://i.imgur.com/kEw8bso.jpg" group-title="PH local channel", TAP Edge
+#EXTINF:-1 tvg-id="TAP.EDGE.ph" tvg-logo="https://i.imgur.com/kEw8bso.jpg" group-title="PH local channel", TAP Edge No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463659&extension=m3u8
 
-#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-logo="https://i.imgur.com/9sbpZCF.jpg" group-title="PH local channel", TAP Movies
+#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-logo="https://i.imgur.com/9sbpZCF.jpg" group-title="PH local channel", TAP Movies No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463660&extension=m3u8
 
-#EXTINF:-1 tvg-id="TAP.SPORTS.HD.ph" tvg-logo="https://i.imgur.com/hulLQ14.jpg" group-title="PH local channel", TAP Sports
+#EXTINF:-1 tvg-id="TAP.SPORTS.HD.ph" tvg-logo="https://i.imgur.com/hulLQ14.jpg" group-title="PH local channel", TAP Sports No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463661&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kC5tOKU.jpg" group-title="PH local channel", Tap TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kC5tOKU.jpg" group-title="PH local channel", Tap TV No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223592
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rT3EhV3.jpg" group-title="PH local channel", Tech Storm
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rT3EhV3.jpg" group-title="PH local channel", Tech Storm No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223594
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/xFe2o8i.jpg" group-title="PH local channel", TeleNovela Channel
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/xFe2o8i.jpg" group-title="PH local channel", TeleNovela Channel No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463664&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qn9Z0nk.jpg" group-title="PH local channel", Teleradyo
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223596
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="THRILL.ph" tvg-logo="https://i.imgur.com/zItbhop.jpg" group-title="PH local channel", Thrill
-http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463665&extension=m3u8
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dVxa3k3.jpg" group-title="PH local channel", TLC
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223598
