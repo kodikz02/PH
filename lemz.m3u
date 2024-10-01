@@ -125,47 +125,47 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223570
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VxA9c1w.jpg" group-title="PH local channel", MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/nationalgeo.png" group-title="PH local channel", National Geographic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/nationalgeo.png" group-title="PH local channel", National Geographic No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223573
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/natgeowild.png" group-title="PH local channel", Cinemachi Docu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.amazonaws.com/ok2logo/natgeowild.png" group-title="PH local channel", Cinemachi Docu No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223574
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k7aOQwG.jpg" group-title="PH local channel", NBA TV Philippines
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k7aOQwG.jpg" group-title="PH local channel", NBA TV Philippines No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223575
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/NHK-JAPAN.png" group-title="PH local channel", NHK world
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223576
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/NHK-JAPAN.png" group-title="PH local channel", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uKVQ5U3.jpg" group-title="PH local channel", Nick Jr.
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uKVQ5U3.jpg" group-title="PH local channel", Nick Jr. No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223577
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4hzmnK4.jpg" group-title="PH local channel", Nickelodeon
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4hzmnK4.jpg" group-title="PH local channel", Nickelodeon No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223578
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MtxHJ43.jpg" group-title="PH local channel", One Ph
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MtxHJ43.jpg" group-title="PH local channel", One Ph No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223579
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oMiBxiJ.jpg" group-title="PH local channel", One Sports
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223580
+https://bit.ly/4dIklUF
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+ No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463644&extension=m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/KziILdU.jpg" group-title="PH local channel", PBA Rush
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=914598&extension=ts&play_token=w2Z0ECv0nh
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oLBKueP.jpg" group-title="PH local channel", PBO
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223583
+https://bit.ly/44LFPvQ
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IINcA6R.jpg" group-title="PH local channel", Pinoy Xtreme
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IINcA6R.jpg" group-title="PH local channel", Pinoy Xtreme No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223584
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jle8vD6.jpg" group-title="PH local channel", Premier Sports
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jle8vD6.jpg" group-title="PH local channel", Premier Sports No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223585
 
 #EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/lklTuGG.jpg" group-title="PH local channel", Sari-Sari
-http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463655&extension=m3u8
+https://tinyurl.com/5bcc4nrw
 
 #EXTINF:-1 tvg-id="SPOTV.sg" tvg-logo="https://i.imgur.com/Ru8HuYA.jpg" group-title="PH local channel", SPOTV
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704583&extension=m3u8
