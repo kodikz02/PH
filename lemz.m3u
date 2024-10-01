@@ -36,7 +36,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223530
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223533
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FTmSeat.jpg" group-title="PH local channel", Cinema One
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=14
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XxAo4fV.jpg" group-title="PH local channel", Cinemax
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223536
