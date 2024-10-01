@@ -41,7 +41,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XxAo4fV.jpg" group-title="PH local channel", Cinemax No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223536
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FTmSeat.jpg" group-title="PH local channel", CineMo! 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos.fandom.com/wiki/File:1500364185_cinemo-web.jpg" group-title="PH local channel", CineMo! 
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.us" tvg-logo="https://i.imgur.com/RIYfGf5.jpg" group-title="PH local channel", CineMundo Pinoy
