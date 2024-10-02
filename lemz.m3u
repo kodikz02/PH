@@ -141,7 +141,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223573
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223574
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k7aOQwG.jpg" group-title="PH local channel", NBA TV Philippines No
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223575
+http://115.146.176.131:80/TimRizal/TimRizal/97.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/NHK-JAPAN.png" group-title="PH local channel", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
