@@ -116,6 +116,9 @@ http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=31053&
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cXAGC62.jpg" group-title="PH local channel", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH local channel", K-Movies
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/ovkKbQC.jpg" group-title="PH local channel", KIX No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=704633&extension=m3u8
 
@@ -153,7 +156,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223578
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223579
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oMiBxiJ.jpg" group-title="PH local channel", One Sports
-https://bit.ly/4dIklUF
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+ No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463644&extension=m3u8
@@ -222,7 +225,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223602
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463670&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/i4A79p9.jpg" group-title="PH local channel", Viva Cinema
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223604
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2hkXryM.jpg" group-title="PH local channel", Warner TV
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223605
