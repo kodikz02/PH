@@ -233,9 +233,6 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223602
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/6uGlmIA.jpg" group-title="PH local channel", UAAP Varsity Channel
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463670&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/i4A79p9.jpg" group-title="PH local channel", Viva Cinema
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/i4A79p9.jpg" group-title="PH local channel", Viva Cinema HD
 http://activefrance.net:80/W8MEP61/2X2H702/543237
 
