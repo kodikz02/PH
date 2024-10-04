@@ -159,10 +159,10 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223578
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223579
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oMiBxiJ.jpg" group-title="PH local channel", One Sports
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+http://activefrance.net:80/W8MEP61/2X2H702/543262
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+ No
-http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463644&extension=m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/CCXW0d0.jpg" group-title="PH local channel", One Sports+
+http://activefrance.net:80/W8MEP61/2X2H702/543261
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/KziILdU.jpg" group-title="PH local channel", PBA Rush
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=914598&extension=ts&play_token=w2Z0ECv0nh
