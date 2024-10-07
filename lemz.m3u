@@ -116,8 +116,8 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ykhT4Ak.jpg" group-title="PH local channel", Jeepney TV No
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223557
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y9PiFC1.jpg" group-title="PH local channel", Kapamilya Channel No
-https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223559
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y9PiFC1.jpg" group-title="PH local channel", Kapamilya Online Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728314512/ei/MKgDZ-XEJO-Q1d8Pjt3_2Ag/ip/61.9.98.18/id/B6kyupUkFec.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/spc/54MbxfseE82fL20ksVLUxsWxfxVa8Q9zn_wE48EUTeke4b44yS4s3oDMpC8ecEKZSeelMSAF2Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIMm7WgkdGeCHaumL9aDVZXOjyT_h0MYVFzQIGjRjHUbAiAB2Rncl4VY-ITAnIvqqfKrP_TPHJEks-P9kt3bB9YSVg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/Dm2ZlLa.jpg" group-title="PH local channel", Kapamilya Channel HD No
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=31053&extension=m3u8
