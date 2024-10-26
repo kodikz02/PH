@@ -120,7 +120,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223557
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-hls-abscbnono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/Dm2ZlLa.jpg" group-title="PH local channel", Kapamilya Channel HD No
-https://amg01006-abs-cbn-kapcha-abscbn-abscbnono-ad-4e.amagi.tv/playlist/amg01006-abs-cbn-kapcha-hls-abscbnono/6acda8a9-9384-11ef-8ec8-decc7577b821/125/640x360_1613189/index.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/144837
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cXAGC62.jpg" group-title="PH local channel", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
