@@ -222,7 +222,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223598
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223599
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/f84l41e.jpg" group-title="PH local channel", TV 5
-https://www.youtube.com/c/tv5philippines/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735834316/ei/bGZ2Z7eeN-TIs8IPj9jZ-Qg/ip/219.100.37.243/id/bhBws98AX6Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUIJ-r3xDGOiO8kPkwGvhNllsq4Vc4lszTCSUXyUGlPvYsVy4DHHv-x3JRUKuvzqoXNnqTUTV/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN9k53J_uQ8g937jIknBa5RWdCRbrkjhYu0oU_I70OCGAiEAwv9mj_O3pLhlbHPLV7DW0VUdZW3qf5pWqaWYevSYQgE%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/UfJP4yy.jpg" group-title="PH local channel", TV5 HD
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463668&extension=m3u8
