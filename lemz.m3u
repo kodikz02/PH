@@ -222,7 +222,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223598
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223599
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/f84l41e.jpg" group-title="PH local channel", TV 5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+https://www.youtube.com/c/tv5philippines/live
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/UfJP4yy.jpg" group-title="PH local channel", TV5 HD
 http://vip.tvgiganten.com:2095/play/live.php?mac=10:27:be:0d:20:96&stream=463668&extension=m3u8
