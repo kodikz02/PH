@@ -84,7 +84,7 @@ https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223548
 https://m3u-editor.com/serve/c3916300-02d7-11ee-9166-2516c78928c7/859223549
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5q1fzvG.jpg" group-title="PH local channel", GMA 7
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735835231/ei/_2l2Z-vyNt6h0-kP5Oq2mAU/ip/136.158.8.144/id/xlpSvjBy1cc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/spc/x-caUC-GEgvHkEds6UIrmQtkRospmnHd844UNyvaeFi8l1lJv-6yRNclaoaER80kE1DO1NAJ2W7n/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOVNK65kLW9KzSLfIXyGkTFA4j4ndSfarzgO62U9Nvh5AiEAhGuLhAR392d3D008j3zE4J92EWNu2oyWZMoQyVUC1pI%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH local channel", GMA LIFE
 http://activefrance.net:80/W8MEP61/2X2H702/115114
